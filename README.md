@@ -2,6 +2,6 @@
 <br>
 Resources from the following site: 
 <br>
-<ul style="list-style-type:katakana">
+<ul style="list-style-type:katakana-iroha">
   <li><a href= "http://codingbat.com/java/Recursion-1">CodingBat - Java Recursion1</a> </li>
 </ul>
